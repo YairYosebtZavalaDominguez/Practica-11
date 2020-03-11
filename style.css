@@ -1,0 +1,5 @@
+body{
+    background-color: paleturquoise;
+}
+
+echo "<div style='float:center;margin:0 auto;width:300px;'>contenido a centrar </div>";
